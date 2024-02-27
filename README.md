@@ -1,2 +1,2 @@
 # wpapp
-demo
+test
